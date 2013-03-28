@@ -62,7 +62,7 @@ close (DATE);
 if( $debug == 1 ){  print "#\tDATE: $EventDate\n";  }
 
 #########################
-if( $debug == 1 ){ print "# Set Variables for MYSQL: meyer_sound database\n"; }
+if( $debug == 1 ){ print "# Set Variables for MYSQL: vpopmail database\n"; }
 my	  $host='localhost';
 my	   $dbd='mysql';
 my	    $db='vpopmail';
